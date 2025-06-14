@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dulshan Dissanayaka</h1>
 <h3 align="center">A passionate in Network Security & System Engineering from Sri Lanka</h3>
-
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dulshantd&label=Profile%20views&color=0e75b6&style=flat" alt="dulshantd" /> </p>
-
+</p>
+<p align='center'>
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***ABOUT ME***
 
 ---
