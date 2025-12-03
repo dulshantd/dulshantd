@@ -24,7 +24,7 @@ re<h1 align="center">Hi 👋, I'm Dulshan Dissanayaka</h1>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***CONTACT ME***
 <p align="left">
-<a href="https://linkedin.com/in/dulshan dissanayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulshan dissanayaka" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/dulshan-dissanayaka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulshan dissanayaka" height="40" width="50" /></a>
 <a href="https://fb.com/dulshan thanuja dissanayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dulshan thanuja dissanayaka" height="40" width="50" /></a>
 <a href="https://instagram.com/not_shan.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="not_shan.x" height="40" width="50" /></a>
 </p>
