@@ -4,6 +4,10 @@
 </p>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=01010110%2010101101%2001101010&fontSize=20&animation=twinkling&fontColor=FF0000" alt="Hacker Rain" />
+</p>
+
+<p align="center">
   <a href="https://dulshantd.github.io/official.portfolio/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/MY_PORTFOLIO-%23FF0000.svg?style=for-the-badge&logo=git&logoColor=white" alt="My Portfolio" />
   </a>
