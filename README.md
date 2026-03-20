@@ -1,7 +1,6 @@
 <p align="center">
   <a href="https://dulshantd.github.io/official.portfolio/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/%3E_ACCESS_CORE_PORTFOLIO-%E2%96%B6_Dulshan.exe-00ff41?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=111" alt="Access Portfolio" />
-    <img src="https://img.shields.io/badge/🟢_LIVE-ACTIVE-ff003c?style=for-the-badge&logo=rss&logoColor=white&labelColor=111" alt="Live Status" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=VIEW%20MY%20PORTFOLIO&fontSize=50&animation=fadeIn&fontColor=ffffff&desc=ICT%20Undergraduate%20|%20Network%20Security%20|%20System%20Engineering&descAlign=70&descSize=20" alt="Dulshan Portfolio" />
   </a>
 </p>
 
@@ -11,25 +10,25 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dulshantd&label=System%20Logs%20&color=ff003c&style=flat-square" alt="dulshantd" />
+  <img src="https://komarev.com/ghpvc/?username=dulshantd&label=Profile%20views&color=ff003c&style=flat-square" alt="dulshantd" />
 </p>
 
 <p align='center'>
-  <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="160" height="160" class="giphy-embed">
+  <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="180" height="180" class="giphy-embed">
 </p>
 
 ---
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> QUICK LINKS
 <p align="center">
+  <a href="https://dulshantd.github.io/official.portfolio/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-00ff41?style=for-the-badge&logo=google-chrome&logoColor=black" />
+  </a>
   <a href="https://linkedin.com/in/dulshan-dissanayaka" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:dulshandissanayaka480@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL_ME-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/94763565058">
-    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -68,5 +67,4 @@
 <br />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff003c&height=100&section=footer" />
-</p>
+  <img src="https://capsule-render.vercel
