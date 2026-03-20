@@ -1,47 +1,71 @@
-re<h1 align="center">Hi 👋, I'm Dulshan Dissanayaka</h1>
-<h3 align="center">A passionate in Network Security & System Engineering from Sri Lanka</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dulshantd&label=Profile%20views&color=0e75b6&style=flat" alt="dulshantd" /> </p>
+<h1 align="center">Hi 👋, I'm Dulshan Dissanayaka</h1>
+<h3 align="center">ICT Undergraduate | Network Enthusiast | System Engineering</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dulshantd&label=Profile%20views&color=ff003c&style=flat-square" alt="dulshantd" />
 </p>
+
+<p align="center">
+  <a href="https://dulshantd.github.io/official.portfolio/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-CLICK_HERE-ff003c?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 <p align='center'>
-<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b></b>ABOUT ME</b>
-
----
-
-- 🔭 I’m Undergraduate in **Bachelor of Information Communication Technology**
-
-- 🌱 I’m currently learning **C/Python**
-
-- 👯 I’m looking to collaborate on **Cloud Computing/ Networking Projects**
-
-- 🤝 I’m Undergratuate at **South Eastern University Sri Lanka**
-
-- 📫 How to reach me **dulshandissanayaka480@gmail.com**
-
-- ⚡ Fun fact **call me as "Shan"**
- 
----
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***CONTACT ME***
-<p align="left">
-<a href="https://www.linkedin.com/in/dulshan-dissanayaka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulshan dissanayaka" height="40" width="50" /></a>
-<a href="https://fb.com/dulshan thanuja dissanayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dulshan thanuja dissanayaka" height="40" width="50" /></a>
-<a href="https://instagram.com/not_shan.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="not_shan.x" height="40" width="50" /></a>
+  <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="220" height="220" class="giphy-embed">
 </p>
 
 ---
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***LANGUAGE AND TOOLS***
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/> </a> </p>
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> ABOUT ME
+
+- 🎓 Undergraduate in **Bachelor of ICT** at **South Eastern University of Sri Lanka (SEUSL)**
+- 🚀 Specialized in **Network Security**, **Low-level C Programming**, and **OS Architecture**
+- 🔭 Currently developing a **Bank Management System** with C and File I/O
+- 🌱 Mastered **Page Replacement Algorithms (FIFO, LRU)** and **Memory Management**
+- 👯 Open to collaborate on **Cloud Computing & Network Infrastructure** projects
+- ⚡ Fun fact: **You can call me "Shan"**
 
 ---
-<br>
-<p align='center'><a href="https://www.buymeacoffee.com/garbinmarcelo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a>
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> LANGUAGES AND TOOLS
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_Computing-00ADEE?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+</p>
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dulshantd&show_icons=true&locale=en&layout=compact" alt="dulshantd" /></p>
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> GITHUB STATS
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dulshantd&show_icons=true&locale=en" alt="dulshantd" /></p>
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dulshantd&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="dulshantd" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dulshantd&show_icons=true&locale=en&theme=vision-friendly-dark" alt="dulshantd" />
+</p>
 
 ---
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> CONNECT WITH ME
+
+<p align="left">
+<a href="https://linkedin.com/in/dulshan-dissanayaka" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:dulshandissanayaka480@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/94763565058" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://instagram.com/not_shan.x" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff003c&height=100&section=footer" />
+</p>
