@@ -18,7 +18,7 @@
 <br>
 <p align="center">
   <a href="https://dulshantd.github.io/official.portfolio/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/MY_PORTFOLIO-%23FF0000.svg?style=for-the-badge&logo=git&logoColor=white" alt="My Portfolio" />
+    <img src="https://img.shields.io/badge/MY_PORTFOLIO-%23FF0000.svg?style=for-the-badge&logo=git&logoColor=white" alt="View My Portfolio" />
   </a>
 </p>
 
