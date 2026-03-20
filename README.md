@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Dulshan Dissanayaka</h1>
-<br>
 <p align="center">
-  <b>ICT Undergraduate | Network Security | System Engineering</b>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=-%20DULSHAN%20DISSANAYAKA%20-&fontSize=50&animation=twinkling&fontColor=FF0000" alt="Hacker Rain" />
 </p>
+
+<H2 align="center">
+  <b>ICT Undergraduate | Network Security | System Engineering</b>
+</H2>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=01010110%2010101101%2001101010&fontSize=20&animation=twinkling&fontColor=FF0000" alt="Hacker Rain" />
